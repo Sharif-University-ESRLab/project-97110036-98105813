@@ -10,7 +10,7 @@ const int key1 = 0;  // input
 const int key2 = 2;  // input
 
 /*** period tasks and their respective periods (in milliseconds) ***/
-const int lamp_status_request_period = 1000;
+const int lamp_status_request_period = 400;
 const int schedule_request_period = 30000;
 const int schedule_action_period = 15000;
 const int switch_check_period = 100;
